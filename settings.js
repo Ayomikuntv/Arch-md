@@ -12,9 +12,9 @@ const { version } = require("./package.json")
 
 
 //======= Change settings =======\\
-global.owner = "2347036214381"
+global.owner = "2348108636139"
 global.botname = "αrch md"
-global.ownername = ""
+global.ownername = "Ayomikun Tv"
 global.simbol = "♘"
 global.typeMenu = 'v1' //don't change 
 global.anticall = false // set true to turn anticall always on
@@ -26,7 +26,7 @@ global.packname = 'Arch Md ²⁵'
 
 global.tempatDB = 'database.json' // dont change might cause big errors 
 global.pairing_code = false // if deploying on panel set true if on any other platform leave it false
-global.startup = true
+global.startup = false
 
 // Settings Image Url
 global.image = {
